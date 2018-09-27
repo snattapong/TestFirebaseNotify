@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestFirebaseNotify</string>
+    <string name="subscribed">สับตะไคร้ Topic News เรียบร้อยจ้า</string>
+    <string name="unsubscribed">ไม่สับตะไคร้ News แล้วนะจ๊ะ</string>
 </resources>
